@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=+3.3V Pin=P2-6
+Added Pin To Net: NetName=+3.3V Pin=P2-12
+Added Pin To Net: NetName=+3.3V Pin=U3-1
+Added Room: Name=DigitalInclinometer

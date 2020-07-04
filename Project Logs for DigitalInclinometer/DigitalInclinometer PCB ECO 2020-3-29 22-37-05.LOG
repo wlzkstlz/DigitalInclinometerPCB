@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=LED4 Pin=U2-21
+Added Pin To Net: NetName=LED4 Pin=U2-25
+Added Room: Name=DigitalInclinometer

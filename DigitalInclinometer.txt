@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\stephen\Documents\IMU_KALMAN\AD_Project\DigitalInclinometer.PcbDoc
+Date         : 2020/3/30
+Time         : 21:26:08
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 70
+    Connections routed, 70
+    Connections remaining, 0
+count : 4

@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=LiBatteryBox NewDesignator=P1
+Added Component: Designator=KEY1(RESET-KEY-SMD)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC2_2 Pin=KEY1-1
+Added Pin To Net: NetName=GND Pin=KEY1-2
+Added Member To Class: ClassName=DigitalInclinometer Member=Component KEY1 KEY_M
+Added Room: Name=DigitalInclinometer
